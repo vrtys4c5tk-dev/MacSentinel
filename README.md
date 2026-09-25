@@ -12,5 +12,17 @@ A lightweight Python tool to monitor macOS background Dark Wake transitions, sys
 - 🔒 **Privacy Monitoring:** Detects Bluetooth Low Energy (BLE) MAC address rotations.
 - 🔑 **Auth Activity:** Identifies `akd` and AuthKit Apple ID validation checks.
 - 🚨 **Nighttime Anomaly Detection:** Flags unexpected wakeups or TCC permission requests occurring between 1:00 AM and 6:00 AM.
+💼 Commercial Licensing & Contact
+MacSentinel is available under a Dual License:
 
+Non-Commercial / Educational: Free to use for personal evaluation and research.
+
+Commercial Use: Requires a paid commercial license.
+
+If you wish to use MacSentinel in a business environment, integrate it into a commercial product, or request custom features, please get in touch:
+
+📩 Email: semanur06.19.bier@gmail.com
+
+
+🐙 GitHub: @vrtys4c5tk-dev
 
